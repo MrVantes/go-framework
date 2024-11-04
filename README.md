@@ -9,4 +9,4 @@ Application backend
 
 ## Development
 
-- See [DEVELOPMENT](./DEVELOPMENT.md) for how to develop CMMS.
+- See [DEVELOPMENT](./DEVELOPMENT.md) for how to develop the application.
