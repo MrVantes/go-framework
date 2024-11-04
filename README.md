@@ -1,6 +1,6 @@
-# CMMS 
+# Application 
 
-CMMS backend
+Application backend
 
 - [Go Echo Framework](https://echo.labstack.com/) for API framework
 - [Postgres](https://www.postgresql.org/) for database
