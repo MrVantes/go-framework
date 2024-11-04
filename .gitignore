@@ -7,3 +7,4 @@ tmp
 vendor
 .idea
 node_modules
+app.yaml
