@@ -2,7 +2,7 @@
 PROJECTS := application
 
 # Database configuration
-DATABASE_URL := postgres://postgres:12qwaszx@172.21.0.1:5432/dev_db?sslmode=disable
+DATABASE_URL := postgres://postgres:12adib%40was@127.0.0.1/nota_db?sslmode=disable
 
 # Tool versions and paths
 GOLANGCI_LINT_VERSION := v1.50.1
